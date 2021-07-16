@@ -1,0 +1,5 @@
+-Ello, I’m @OrionXV.
+-I’m interested in Cybersecurity and Analytics along with Machine Learning. 
+-I’m currently learning Python and Machine Learning. 
+-I’m looking to collaborate on small projects and get some experiance. 
+-Message me on discord: PhantomXV#9401
