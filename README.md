@@ -1,6 +1,5 @@
 # Hello, I’m @OrionXV.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrionXV&theme=blue-green)  
 I’m a Machine Learning Engineer. 
 I do a little bit competetive programming.
 Message me on discord: PhantomXV#9401
