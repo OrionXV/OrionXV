@@ -1,6 +1,6 @@
 # Hello, I’m @OrionXV.
 
-I’m a Machine Learning Engineer. 
+I like Machine Learning.
 I do a little bit competetive programming.
 Message me on discord: PhantomXV#9401
 
